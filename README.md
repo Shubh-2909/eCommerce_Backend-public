@@ -1,10 +1,5 @@
 # E-Commerce API Documentation
 
-## Base URL
-
-```
-http://localhost:3000/api
-```
 
 ## Authentication
 
